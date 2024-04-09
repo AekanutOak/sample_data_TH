@@ -8,4 +8,5 @@ Run `main.py` and the result will be stored in data/people.csv
 
 # Note
 The name_data is derived from `https://kidhaina.com/thainamegenerator.html` <br>
+I will try to collect from my own if I have sufficient time, so sorry if it seem like stealing. <br>
 This project is for educational purpose only.
