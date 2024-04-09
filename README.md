@@ -4,6 +4,7 @@ I know that `faker` can generate sample data including Thai people data. However
 
 # Usage
 Modify `config.json` to meet your requirements <br>
+Modify `json file` on `data` for more fine-tuned sampling <br>
 Run `main.py` and the result will be stored in data/people.csv
 
 # Note
