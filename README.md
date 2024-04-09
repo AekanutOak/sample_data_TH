@@ -10,3 +10,9 @@ Run `main.py` and the result will be stored in data/people.csv
 The name_data is derived from `https://kidhaina.com/thainamegenerator.html` <br>
 I will try to collect from my own if I have sufficient time, so sorry if it seem like stealing. <br>
 This project is for educational purpose only.
+
+# Future plan
+- Improve realistic sampling (phone number and ID card can be more realistic)
+- Add new sample such as bank traffic, account traffic, etc.
+- Integrate with user interface such as `Flet` or `Kivy`. At this moment, I stick on console interface haha.
+- Collect my own data or ask for open-source data so that I don't need to collect them by myself (e.g. Thai_name)
