@@ -1,0 +1,17 @@
+{
+    "people":{
+        "male_population":50,
+        "male_min_age":20,
+        "male_max_age":65,
+        "female_population":50,
+        "female_min_age":20,
+        "female_max_age":65
+    },
+    "account":{
+        "registration_min_year":2018,
+        "registration_max_year":2024,
+        "min_money":2000,
+        "max_money":1000000
+    }
+    
+}
