@@ -1,0 +1,138 @@
+﻿{
+    "gsb": {
+        "name-EN": "government savings bank",
+        "name-TH": "ธนาคารออมสิน",
+        "saving_digit": "12",
+        "fixed_digit": "12",
+        "current_digit": "12",
+        "weigt": "10"
+    },
+    "bbl": {
+        "name-EN": "bangkok bank public company limited",
+        "name-TH": "ธนาคารกรุงเทพ",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "kbank": {
+        "name-EN": "kasikornbank public company limited",
+        "name-TH": "ธนาคารกสิกรไทย",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "ktb": {
+        "name-EN": "krung thai bank public company limited",
+        "name-TH": "ธนาคารกรุงไทย",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "tmb": {
+        "name-EN": "tmb bank public company limited",
+        "name-TH": "ธนาคารทหารไทยธนชาต",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "scb": {
+        "name-EN": "siam commercial bank public company limited",
+        "name-TH": "ธนาคารไทยพาณิชย์",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "scbt": {
+        "name-EN": "standard chartered bank (thai) public company limited",
+        "name-TH": "ธนาคารแสตนดาร์ดชาร์เตอร์ (ไทย)",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "cimb": {
+        "name-EN": "cimb thai bank public company limited",
+        "name-TH": "ธนาคารซีไอเอ็มบีไทย",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "uob": {
+        "name-EN": "united overseas bank",
+        "name-TH": "ธนาคารยูโอบี",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "bay": {
+        "name-EN": "bank of ayudhya public company limited",
+        "name-TH": "ธนาคารกรุงศรีอยุธยา",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "lhb": {
+        "name-EN": "land and house bank",
+        "name-TH": "ธนาคารแลนด์แอนด์เฮาส์",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "kkp": {
+        "name-EN": "kiatnakin bank public company limited",
+        "name-TH": "ธนาคารเกียรตินาคินภัทร",
+        "saving_digit": "14",
+        "fixed_digit": "14",
+        "current_digit": "14",
+        "weigt": "10"
+    },
+    "citi": {
+        "name-EN": "citibank n.a.",
+        "name-TH": "ธนาคารซิตี้แบงก์",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "tisco": {
+        "name-EN": "tisco bank public company limited",
+        "name-TH": "ธนาคารทิสโก้",
+        "saving_digit": "14",
+        "fixed_digit": "14",
+        "current_digit": "14",
+        "weigt": "10"
+    },
+    "baac": {
+        "name-EN": "bank for agriculture and agricultural cooperatives",
+        "name-TH": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
+        "saving_digit": "12",
+        "fixed_digit": "12",
+        "current_digit": "12",
+        "weigt": "10"
+    },
+    "isbt": {
+        "name-EN": "islamic bank of thailand",
+        "name-TH": "ธนาคารอิสลามแห่งประเทศไทย",
+        "saving_digit": "10",
+        "fixed_digit": "10",
+        "current_digit": "10",
+        "weigt": "10"
+    },
+    "ghb": {
+        "name-EN": "government housingbank",
+        "name-TH": "ธนาคารอาคารสงเคราะห์",
+        "saving_digit": "12",
+        "fixed_digit": "12",
+        "current_digit": "12",
+        "weigt": "10"
+    }
+}
