@@ -1,7 +1,11 @@
-Config random via config.json file
+# Sample Thai Data
 
-You can add your bank in data/bank.csv
-You can add your occupation in data/occupation_data.json
-You can add your customized Thai name in data/name_data.json
+I know that `faker` can generate sample data including Thai people data. However, I want to improve user interaction, customization, and realistic sampling. I might be lazy so that I might leave this project unfinished haha.
 
-After you modify any random parameters, you may need to run generate_domain.py again to re-generate the sample
+# Usage
+Modify `config.json` to meet your requirements <br>
+Run `main.py` and the result will be stored in data/people.csv
+
+# Note
+The name_data is derived from `https://kidhaina.com/thainamegenerator.html` <br>
+This project is for educational purpose only.
